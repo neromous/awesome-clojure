@@ -481,7 +481,7 @@ anylysis and visualization.*
 
   * [marginalia](https://github.com/gdeer81/marginalia)
   * [klipse](https://github.com/viebel/klipse)
-
+  * [blackfog](https://github.com/neromous/blackfog.dsl)
 ## Archives and Compression
 
   * [swindon (java.util.zip wrapper)](https://github.com/AeroNotix/swindon)
